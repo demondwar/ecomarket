@@ -1,0 +1,13 @@
+com\ecomarket\example\eco_market\service\ProductoService.class
+com\ecomarket\example\eco_market\controller\PedidoController.class
+com\ecomarket\example\eco_market\model\Tienda.class
+com\ecomarket\example\eco_market\repository\PedidoRepository.class
+com\ecomarket\example\eco_market\service\PedidoService.class
+com\ecomarket\example\eco_market\controller\ProductoController.class
+com\ecomarket\example\eco_market\repository\ProductoRepository.class
+com\ecomarket\example\eco_market\service\TiendaService.class
+com\ecomarket\example\eco_market\EcoMarketApplication.class
+com\ecomarket\example\eco_market\controller\TiendaController.class
+com\ecomarket\example\eco_market\repository\TiendaRepository.class
+com\ecomarket\example\eco_market\model\Producto.class
+com\ecomarket\example\eco_market\model\Pedido.class
