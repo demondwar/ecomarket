@@ -33,7 +33,8 @@ public class ProductoController {
     @DeleteMapping("/{id}")
     public void eliminar(@PathVariable Long id) {
         service.eliminar(id);
-    }
+    } 
+    
     @GetMapping("/{id}")
     public ResponseEntity<Producto> buscarPorId(@PathVariable Long id) {
         Producto producto = service.buscarPorId(id);
